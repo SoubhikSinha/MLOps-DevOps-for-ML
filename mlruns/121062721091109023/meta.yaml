@@ -1,6 +1,0 @@
-artifact_location: file:///D:/GitHub_Repos/MLOps-DevOps-for-ML/mlruns/121062721091109023
-creation_time: 1730954902772
-experiment_id: '121062721091109023'
-last_update_time: 1730954902772
-lifecycle_stage: active
-name: continuos_deployment_pipeline
